@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-yumventure-dev-190439-authRole",
+      "UnauthRoleArn": "arn:aws:iam::115978965265:role/amplify-yumventure-dev-190439-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::115978965265:role/amplify-yumventure-dev-190439-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-yumventure-dev-190439-deployment",
+      "UnauthRoleName": "amplify-yumventure-dev-190439-unauthRole",
+      "StackName": "amplify-yumventure-dev-190439",
+      "StackId": "arn:aws:cloudformation:us-east-2:115978965265:stack/amplify-yumventure-dev-190439/b6074170-19c3-11ee-bb2a-0292459d3d7d",
+      "AmplifyAppId": "dfz7sbn7ggdkd"
+    },
+    "categories": {
+      "api": {
+        "yumventure": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dfz7sbn7ggdkd",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
